@@ -1,0 +1,7 @@
+#Code in Python
+from random import randint
+
+def test(name):
+    num = randint(6,15)
+    print(name+" "+str(num))
+
